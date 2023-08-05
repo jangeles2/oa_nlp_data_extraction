@@ -1,7 +1,7 @@
 # Code adapted from various sources
     
 # Sources for Exploratory Data Analysis: 
-# Website: https://neptune.ai/blog/exploratory-data-analysis-natural-language-processing-tools
+# Website: https://neptune.ai/blog/exploratory-data-analysis-natural-language-processing-tools retrieved in June 2023
 # Repository: https://app.neptune.ai/o/neptune-ai/org/eda-nlp-tools/notebooks?notebookId=2-0-top-ngrams-barchart-671a187d-c3b4-475a-bc9e-8aa6c937923b retrieved in June 2023
 
 # Sources for TF-IDF Model: 
@@ -13,7 +13,7 @@
 # Website: https://swatimeena989.medium.com/training-word2vec-using-gensim-14433890e8e4 retrieved in July 2023
 
 # Source for Metaflow:
-# Website: https://outerbounds.com/docs/intro-tutorial-overview/
+# Website: https://outerbounds.com/docs/intro-tutorial-overview/ retrieved in July 2023
 
 
 # Metaflow for medical data extraction from unstructured radiology reports
